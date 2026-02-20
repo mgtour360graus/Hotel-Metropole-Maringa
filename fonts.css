@@ -1,0 +1,66 @@
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Bold Italic.woff2") format("woff2");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Italic.woff2") format("woff2");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Poppins";
+   src: url("fonts/Poppins Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins SemiBold";
+   src: url("fonts/Poppins SemiBold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins SemiBold";
+   src: url("fonts/Poppins SemiBold Italic.woff2") format("woff2");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Segoe UI";
+   src: url("fonts/Segoe UI Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins Medium";
+   src: url("fonts/Poppins Medium Italic.woff2") format("woff2");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Poppins Medium";
+   src: url("fonts/Poppins Medium.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}

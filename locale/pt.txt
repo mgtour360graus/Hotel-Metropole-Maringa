@@ -1,0 +1,488 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_14086B1B_0A32_0708_41A2_2E69F4526D04.source = http://instagram.com/hotelmetropolemaringa
+LinkBehaviour_11589503_0D7B_6572_418C_F35A8C04D82F.source = http://instagram.com/hotelmetropolemaringa
+LinkBehaviour_41017764_6781_F973_41D2_662F48AD1435.source = https://book.omnibees.com/hotelresults?q=6360&lang=pt-BR&currencyId=16&hotel_folder=&mysite=ob&CheckIn=01022024&CheckOut=02022024&ad=1&ch=0&ag=&child_age_input=&Code=
+LinkBehaviour_148B9F74_0A32_1F19_4197_FC317CF05DAD.source = https://facebook.com/hotelmetropolemaringa
+LinkBehaviour_115E0502_0D7B_6572_41A6_0D645F44BDC7.source = https://facebook.com/hotelmetropolemaringa
+LinkBehaviour_11F57405_0D7B_1B77_4190_F709A9151323.source = https://links.hotelmetropolemaringa.com.br/
+LinkBehaviour_14C106E3_0A32_013F_4170_3B81696BC570.source = https://links.hotelmetropolemaringa.com.br/
+LinkBehaviour_3C118DC3_614F_DA9E_41C8_C4834FF48B20.source = https://m.uber.com/ul/?action=setPickup&client_id=SygPhT90NqyFTAc7SvUNTaRBzCFscjKW&pickup=my_location&dropoff[formatted_address]=Hotel%20Metr%C3%B3pole%20Maring%C3%A1%20-%20Avenida%20XV%20de%20Novembro%20-%20Zona%2001%2C%20Maring%C3%A1%20-%20PR%2C%20Brasil&dropoff[latitude]=-23.423607&dropoff[longitude]=-51.936948
+LinkBehaviour_11586506_0D7B_6575_419C_A61C9BDA68DD.source = https://m.uber.com/ul/?action=setPickup&client_id=SygPhT90NqyFTAc7SvUNTaRBzCFscjKW&pickup=my_location&dropoff[formatted_address]=Hotel%20Metr%C3%B3pole%20Maring%C3%A1%20-%20Avenida%20XV%20de%20Novembro%20-%20Zona%2001%2C%20Maring%C3%A1%20-%20PR%2C%20Brasil&dropoff[latitude]=-23.423607&dropoff[longitude]=-51.936948
+LinkBehaviour_1445F87B_0A32_0108_418A_8E9D3A9AFF56.source = https://web.whatsapp.com/send?phone=5544984330410&text=Ol%C3%A1%20visitei%20o%20site.
+LinkBehaviour_1159A506_0D7B_6572_41A1_64C4A85634D4.source = https://web.whatsapp.com/send?phone=5544984330410&text=Ol%C3%A1%20visitei%20o%20site.
+WebFrame_2A9C74E6_0EFE_0138_4190_8854F35BFF04.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14644.084227788058!2d-51.9369478!3d-23.4236065!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd72cd5bf4545%3A0x3d43b3af2f8103c8!2sHotel%20Metr%C3%B3pole%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1705276849705!5m2!1spt-BR!2sbr
+WebFrame_2A9C74E6_0EFE_0138_4190_8854F35BFF04_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14644.084227788058!2d-51.9369478!3d-23.4236065!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd72cd5bf4545%3A0x3d43b3af2f8103c8!2sHotel%20Metr%C3%B3pole%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1705276849705!5m2!1spt-BR!2sbr
+LinkBehaviour_CCF5C39E_F3C4_87AA_41E3_A5CD9E918BC1.source = https://www.mgtour360.com.br/
+LinkBehaviour_1788DA7D_0ADE_010B_419E_B9EDDD4C2776.source = https://www.tripadvisor.com.br/Hotel_Review-g658210-d647097-Reviews-Hotel_Metropole_Maringa-Maringa_State_of_Parana.html
+LinkBehaviour_11583504_0D7B_6576_41A3_7250F0A64BF8.source = https://www.tripadvisor.com.br/Hotel_Review-g658210-d647097-Reviews-Hotel_Metropole_Maringa-Maringa_State_of_Parana.html
+LinkBehaviour_14D8E06B_0A32_010F_4181_D23F4143A4CB.source = https://www.tripadvisor.com.br/Hotel_Review-g658210-d647097-Reviews-Hotel_Metropole_Maringa-Maringa_State_of_Parana.html
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_FD278D6F_65DC_8BF0_41A3_4BE4EF8A07DD.toolTip = Catedral de Maringá veja por Dentro
+HotspotPanoramaOverlayArea_42D42702_5893_6F82_41A1_26AAE7DFF420.toolTip = Conheça Estádio Willie Davids
+HotspotPanoramaOverlayArea_42EFA317_5891_2782_41B9_6B63B8396165.toolTip = Conheça o Parque do Ingá
+HotspotPanoramaOverlayArea_E5959AC2_F044_8195_41DA_E99941BEC9AC.toolTip = Hotel Metrôpole
+HotspotPanoramaOverlayArea_E456BEFD_F045_816F_41EA_0931B47BE99C.toolTip = Hotel Metôpole
+
+## Media
+
+### Audio
+audiores_50C595F3_6757_3C6E_41D4_8CB9CFD00B40.mp3Url = media/audio_436D3FB1_67D3_4CED_41D9_5AE032108640_pt.mp3
+audiores_4167CB8B_6786_E9B5_41C2_61A501D4F331.mp3Url = media/audio_52872541_6737_C09B_41D4_F20BAEC03918_pt.mp3
+audiores_6842C6B0_6736_41F9_41D7_1148F9B6661B.mp3Url = media/audio_7897950F_677F_8D77_41D4_CA1F10394C54_pt.mp3
+audiores_684405C7_6736_43A6_419D_0E08A48FA5A4.mp3Url = media/audio_792EBC3C_677E_8399_41C3_F4B79C502B38_pt.mp3
+audiores_6845E47F_6736_4167_41B6_BCFBDFA19362.mp3Url = media/audio_7A70C668_6779_8FB9_41B4_D477E9182B5E_pt.mp3
+audiores_6864D141_6736_409B_41CE_34FE9FADC092.mp3Url = media/audio_7AF6B1DD_677B_849B_41BD_5EA45ACBBEF5_pt.mp3
+audiores_7835BEE6_674A_C199_4173_27D74614DDA8.mp3Url = media/audio_7C39009C_6756_C1AB_41D9_3BA37EBF6263_pt.mp3
+audiores_783811BA_674A_C3E9_41C3_F39880A608A2.mp3Url = media/audio_7C9631FD_674A_436A_41BB_99C8F6BDB94F_pt.mp3
+audiores_783A327F_674A_C167_41D8_E5CE41021620.mp3Url = media/audio_7CA5E2EB_674A_C16F_41BF_90064E35CA77_pt.mp3
+audiores_783980C0_674A_C199_41C4_5E88A4F6614A.mp3Url = media/audio_7CF5424C_6749_C0AA_41D7_47F47CCEB4E2_pt.mp3
+audiores_78302DE4_674A_C399_41CC_476305DE1D9F.mp3Url = media/audio_7D1EFD1E_6756_C0A9_41D8_258D65C5C996_pt.mp3
+audiores_7CBCE07E_6719_8398_41C4_A48080AC2A28.mp3Url = media/audio_7EA1BFB2_671A_9CA9_41CC_E0E75EDDDA23_pt.mp3
+audiores_7F13F98A_672F_8579_41C5_5E4749AFE7B6.mp3Url = media/audio_7FF7C771_672F_8DAB_41B0_1F5AC53CB1A1_pt.mp3
+audiores_FD4E637D_65A5_9FD0_41D5_9F55C9CDA497.mp3Url = media/audio_F12C3AB9_65A4_8950_41B1_98DF6A36C2B5_pt.mp3
+audiores_FC29A355_65E4_9FD1_41BE_FAD8F62C84D9.mp3Url = media/audio_F2806FFD_65E7_86D0_41A1_4CF7D802431C_pt.mp3
+audiores_FD42541A_65A5_9953_41B1_63B2D967169B.mp3Url = media/audio_F30BC13F_65A4_9B50_41D8_720FEDE3F7EF_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_4B42166E_5F67_4622_41B5_BD92E83C6E91.label = Academia
+panorama_4AE55F9A_5F61_46E2_41AA_F2182915D893.label = Academia
+panorama_4A710B6D_5F63_4E26_41C7_A87180B69997.label = Academia - Cardio
+panorama_463415DD_5F67_5A67_41CB_2A645AB216CD.label = Academia 1
+panorama_68F844CF_5B91_2281_41D3_EF96C3E26DB6.label = Acesso Academia
+panorama_059E427E_0F7E_1E6F_4189_5F6C51ADD4D5.label = Acesso Elevador
+panorama_4CF6F8D1_5F60_CA7E_41B7_6CBFE32EE133.label = Acesso Piscina
+panorama_059CABDC_0F7E_EEAC_4185_6F8D81B91B82.label = Acesso Quartos
+panorama_D381AD0C_F0C7_80AE_41E1_1D81D218A0F1.label = Acesso elevdor
+panorama_4F3DA6AE_5F5F_4625_41D6_A3CFE6210CAA.label = Acesso saúna
+panorama_059E7DEB_0F7E_EA94_4189_B36310296E38.label = Acesso área de lazer
+panorama_E45FC5ED_F04C_836F_41D6_94B4D5051622.label = Café da Manhã
+panorama_E45FE8A0_F04C_8195_41D7_1DF17852BC3E.label = Café da Manhã
+panorama_E4585942_F04B_8095_41E0_9DDD91E75401.label = Café da Manhã
+panorama_E4583A72_F04B_8175_41D2_6DA0E073E14C.label = Café da Manhã
+panorama_E461CC08_F04B_8095_41E9_CCC1B413B0AA.label = Café da Manhã
+panorama_E7C2DD60_F04B_8096_41ED_4FB8F3A641B7.label = Café da Manhã
+panorama_E45FA756_F04C_80BD_41E5_52EF5CB0E6E5.label = Café da Manhã
+panorama_E45FB217_F04C_80B9_41A7_64248FAC8A9D.label = Café da Manhã
+panorama_E45FE4AB_F04C_81EB_41E1_E47250CB6746.label = Café da Manhã
+panorama_E4585340_F04C_8095_41A2_C1C8C8668341.label = Café da Manhã
+panorama_E45820AC_F04C_81ED_41D8_48E7E3210F79.label = Café da Manhã
+panorama_C42BAB88_65DC_8F30_41AC_D9C399169BA9.label = Catedral
+panorama_ECC09CA5_F047_819E_41C7_2EB5BB36DDB5.label = Centro de Eventos Paris
+panorama_EB07A92B_F044_80EB_41E0_C8D6CA4627D4.label = Centro de Eventos Paris
+panorama_ECB8EC8A_F045_8195_41E6_075DAF2BE55C.label = Centro de Eventos Paris
+panorama_EB08A424_F04B_809D_41E5_38E6C9673BFE.label = Centro de Eventos Paris
+panorama_059D612A_0F7E_1B94_41A6_2D4B20D5D90F.label = Entrada
+panorama_E8CE3A39_F04B_80F7_41EA_F595041EDF1B.label = Espaço lazer
+panorama_059DB52D_0F7E_1BED_41A3_3ADB6A774C6A.label = Fachada
+panorama_059F720E_0F7E_39AC_41AB_7773939D26C8.label = Foyer
+panorama_059EDE55_0F7F_E9BD_4190_A0649E36DB42.label = Foyer
+panorama_059F8965_0F7E_2B9D_419E_577CE694A8D0.label = Foyer
+panorama_059E7BD1_0F7E_2EB4_418B_BD6DF541A3A3.label = Foyer
+panorama_059F387D_0F7E_2A6D_4188_E8FE2ED6F5BD.label = Foyer
+panorama_059D17FC_0F7E_2673_419A_19F1B89A7AEB.label = Hall
+panorama_05A62D94_0F7A_2ABC_41AA_F92B3579C91A.label = Master Conjugada casal
+panorama_05A696A1_0F7A_2694_4199_4314067C5957.label = Master Conjugada casal
+panorama_05A6C3E2_0F7A_1E94_41AA_7CF9E7BCBED5.label = Master Conjugada casal
+panorama_059D991D_0F7E_6BAD_4131_F8797FC9DEE8.label = Master Solteiro
+panorama_059DE1C5_0F7E_7A9C_41A7_5CA2BAF0F677.label = Master Solteiro
+panorama_059DDB35_0F7E_6FFC_41AA_403BB7275B1F.label = Master Solteiro
+panorama_05A6A270_0F7A_FE73_41A5_671FE63CC99A.label = Master conjugada solteiro
+panorama_05A688EE_0F7A_EA6F_416C_85C879A6124C.label = Master conjugada solteiro
+panorama_05A6DF6C_0F7A_2793_418E_BCED62F9150C.label = Master conjugada solteiro
+panorama_E3345930_F044_80F5_41E3_DE217AF9BEA6.label = Parque do Ingá
+panorama_059FAE60_0F7E_6994_41A4_419108BFB1F9.label = Piano Bar
+panorama_059FB523_0F7E_1B95_41AA_6D42969082E6.label = Piano Bar
+panorama_E940F9EB_F07B_836A_41EA_0BFA931F30B3.label = Piscina
+panorama_ECBBBBB8_F07B_87F5_41A5_DED1A4224237.label = Piscina
+panorama_E946456D_F07C_836F_41C8_B8CEF44D7D14.label = Piscina
+panorama_05A67A0D_0F7A_69AD_4174_DF389AC4FE00.label = Presidencial
+panorama_05A7E19F_0F7A_3AAC_41A6_4A1C5289D778.label = Presidencial
+panorama_05A60B00_0F7A_2F93_41A5_D87A47677438.label = Presidencial
+panorama_05A67EA9_0F7A_6695_4171_D51267EC10E2.label = Presidencial
+panorama_05A65F86_0F7B_E69F_41AC_42F858317CDD.label = Presidencial
+panorama_05A618A3_0F7A_2A95_4171_E1EB9DAE8492.label = Presidencial
+panorama_05A6042F_0F7A_19EC_4179_C29693F58617.label = Presidencial
+panorama_05A61615_0F7B_F9BC_414E_DCAA1BA8B066.label = Presidencial
+panorama_059D5F12_0F7E_27B7_41A9_D8BB9BC20772.label = Recepção
+panorama_C615E1F4_F3C5_837D_41E6_D01E3E3090FB.label = Sala Londres
+panorama_C14CD86A_F3C4_8095_41BC_7F5C84ED4931.label = Sala Londres
+panorama_C13BC8FD_F03C_816F_41DE_34A8EBD7F48B.label = Sala Londres
+panorama_D1EECBC5_F0CD_879F_41CB_12915E54FDC2.label = Sala Maringá
+panorama_DF9E0883_F05C_819B_41D5_524F71988E49.label = Sala Nova York
+panorama_D67E96A8_F044_8196_41D1_5CD1CB69093D.label = Sala Rio de Janeiro
+panorama_D9AB1B82_F044_8795_41EC_C2546B6ECF68.label = Sala Rio de Janeiro
+panorama_760D2A75_5B93_2186_41C6_F06DA901A183.label = Saúna
+panorama_059CE495_0F7E_1ABC_418D_095171BD5ADA.label = Superior Casal
+panorama_059C7D4F_0F7E_2BAC_4172_C1C3987F48FD.label = Superior Casal
+panorama_059D1F79_0F7E_2675_4170_57DDA9997699.label = Superior Casal
+panorama_059C75F8_0F7E_3A73_4189_97EC659F41EF.label = Superior Casal
+panorama_420578BC_6737_D4DB_41C9_DA3404BADC4C.label = Superior King
+panorama_415812EE_6731_5477_41D4_97DFAB7D3190.label = Superior King
+panorama_408122EF_6730_D475_41D7_3B8217C00516.label = Superior King
+panorama_42ED7B97_6737_74D5_41D7_04814B873C72.label = Superior King
+panorama_4192E9A0_6731_54EB_41D3_CEA9E4C7947F.label = Superior King
+panorama_05A5953F_0F7A_1BEC_41A9_06623EE01C0B.label = Suíte Classic 1402
+panorama_05A54BAD_0F7A_EEEC_41A3_7ACEEBF3786C.label = Suíte Classic 1402
+panorama_05A5EEB0_0F7A_26F3_41A1_B6165554D379.label = Suíte Classic 1402
+panorama_05A5ECB3_0F7A_6AF5_4193_B8B2116463BA.label = Suíte Classic 1403
+panorama_05A5C321_0F7A_1F95_418A_4DE038FAC7F7.label = Suíte Classic 1403
+panorama_05A587CE_0F7A_26AC_419E_79E583067D5F.label = Suíte Classic 1403
+panorama_05A53FB6_0F7A_66FC_417F_1252ED543A0A.label = Suíte Classic 1404
+panorama_05A558D3_0F7A_2AB4_418D_0A2A7699A164.label = Suíte Classic 1404
+panorama_05A52613_0F7A_79B4_4198_7EAF348F10F1.label = Suíte Classic 1404
+panorama_05A4DD39_0F79_EBF4_41AB_EE7E52C0A86A.label = Suíte Classic 1405
+panorama_05A4E43C_0F7A_19EC_41A6_1DABA6F53541.label = Suíte Classic 1405
+panorama_05A5A1AD_0F7A_3AEC_41AE_9485741A5C7B.label = Suíte Classic 1405
+panorama_059BE666_0F79_F99F_4193_C0E8937D01A7.label = Suíte Classic 1405
+panorama_05A40F94_0F79_E6B3_41AB_6B3CF1E0E348.label = Suíte Classic 1405
+panorama_05A53ABB_0F7A_2EF4_41A8_20DFCF95078B.label = Suíte Classic 1405
+panorama_05A3F471_0F7E_7A75_41A4_6CA4B782BC6B.label = Suíte Lord
+panorama_05A3E30F_0F7E_1FAD_418F_52D9FBC676BD.label = Suíte Lord
+panorama_05A35BC9_0F7E_6E95_414E_610D4CC72ABC.label = Suíte Lord
+panorama_05A3ED7E_0F7E_6A6C_41A9_E4A2B343CB33.label = Suíte Lord
+panorama_059C7074_0F7E_1A73_41A4_6F5DB588C6FC.label = Suíte Master Casal
+panorama_059C192D_0F7E_EBED_4181_6B2DFEDDF141.label = Suíte Master Casal
+panorama_059CF23B_0F7E_F9F4_4175_0FCCC1173E16.label = Suíte Master Casal
+panorama_059C17ED_0F7E_266D_41A9_3220F30D0CF0.label = Suíte Sênior
+panorama_059C4F34_0F7E_27F3_4194_D35DA48B5E93.label = Suíte Sênior
+panorama_05A3869A_0F7E_26B4_41AB_9B226740E81D.label = Suíte Sênior
+panorama_E6859C8E_F047_81AD_41CE_8D81F153F120.label = Vista Aérea
+panorama_E21798CB_F0C4_81AB_41D7_B53185FCE309.label = Vista Aérea
+
+## Right Click Menu
+
+### Text
+menuItem_CE1B0168_F3C5_8095_41E5_6BDB95F17274.label = DESENVOLVIDO POR MGTOUR 360°
+
+## Skin
+
+### Button
+Button_18D42AA1_059E_AF58_4195_80B93EAD7B21.label = EVENTOS
+Button_36D8FAFC_61CC_FE6A_41B5_653EBDC4C3AD_mobile.label = EVENTOS
+Button_14E0F7E3_0D1F_64B2_4194_6AD7A7C06741.label = EVENTOS
+Button_142827AD_0A32_0F08_419F_18BCC8507775.label = EVENTOS
+Button_14A4F3E2_0A3E_0738_419D_4DBB5DBD0B0E.label = INSTALAÇÕES
+Button_1E9BEEC8_0582_A4E9_4187_DBD418644990.label = INSTALAÇÕES
+Button_14E3F7E2_0D1F_64B2_4196_CAA790E1A3E5.label = INSTALAÇÕES
+Button_36F45E3C_61CD_79EA_41D0_CF888F3D3340_mobile.label = INSTALAÇÕES
+Button_12A400F7_05FE_9CB8_4194_26AC194CBD6D.label = QUARTOS
+Button_1457C8C2_0D25_2CF2_41A3_0CB4A5932EA7.label = QUARTOS
+Button_1F9FB061_0672_013B_4191_9BAF4E12D42B_mobile.label = QUARTOS
+Button_1F9FB061_0672_013B_4191_9BAF4E12D42B.label = QUARTOS
+Button_1F60E3F0_0672_0718_4186_786AE86D0974.label = SERVIÇOS
+Button_1F60E3F0_0672_0718_4186_786AE86D0974_mobile.label = SERVIÇOS 
+Button_15C3BD0B_0D24_E572_41A9_BDD0544B3B1D.label = VISTA AÉREA
+Button_11E02501_05BE_E558_4178_984419F1A66B.label = VISTA AÉREA
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_pt.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_pt.png
+Image_10AD6DE9_062E_030B_4195_DF3C7B0317A0.url = skin/Image_10AD6DE9_062E_030B_4195_DF3C7B0317A0_pt.jpg
+Image_117E1EDF_0632_0108_4195_AA9D2626AAD9.url = skin/Image_117E1EDF_0632_0108_4195_AA9D2626AAD9_pt.jpg
+Image_13C14623_0632_013F_4179_E64312E925F3.url = skin/Image_13C14623_0632_013F_4179_E64312E925F3_pt.jpg
+Image_13C43474_0632_0118_4183_5FD6A3CBA91A.url = skin/Image_13C43474_0632_0118_4183_5FD6A3CBA91A_pt.jpg
+Image_13C562A4_0632_0138_4196_10E10C634DA2.url = skin/Image_13C562A4_0632_0138_4196_10E10C634DA2_pt.jpg
+Image_13CB3FFB_062E_3F08_4181_39439BDA8B0B.url = skin/Image_13CB3FFB_062E_3F08_4181_39439BDA8B0B_pt.jpg
+Image_2C0ABCE0_613C_FA9B_41D6_28F2ADB798B4_mobile.url = skin/Image_2C0ABCE0_613C_FA9B_41D6_28F2ADB798B4_mobile_pt.jpg
+Image_2CE6F298_613D_CEAA_41D8_95A3BD500751_mobile.url = skin/Image_2CE6F298_613D_CEAA_41D8_95A3BD500751_mobile_pt.jpg
+Image_2D35A863_6157_D99E_41B7_7F89D92C2E80_mobile.url = skin/Image_2D35A863_6157_D99E_41B7_7F89D92C2E80_mobile_pt.jpg
+Image_2D7627E5_614D_5665_41BB_E6DDD9D2D708_mobile.url = skin/Image_2D7627E5_614D_5665_41BB_E6DDD9D2D708_mobile_pt.jpg
+Image_2D8914FD_6135_4A65_41A0_A43B23EEE1C8_mobile.url = skin/Image_2D8914FD_6135_4A65_41A0_A43B23EEE1C8_mobile_pt.jpg
+Image_2DA9C595_6134_CAA5_41D4_57B4E5CDD8BF_mobile.url = skin/Image_2DA9C595_6134_CAA5_41D4_57B4E5CDD8BF_mobile_pt.jpg
+Image_2E1C548E_614D_4AA6_41B5_385797FCD1F1_mobile.url = skin/Image_2E1C548E_614D_4AA6_41B5_385797FCD1F1_mobile_pt.jpg
+Image_2E40CF0E_6154_D7A6_41CC_B710E49FCF1F_mobile.url = skin/Image_2E40CF0E_6154_D7A6_41CC_B710E49FCF1F_mobile_pt.jpg
+Image_2E76494E_615D_3BA6_41D2_D3987FF90158_mobile.url = skin/Image_2E76494E_615D_3BA6_41D2_D3987FF90158_mobile_pt.jpg
+Image_2E868FEE_615D_7666_41C7_F60715BA3C7D_mobile.url = skin/Image_2E868FEE_615D_7666_41C7_F60715BA3C7D_mobile_pt.jpg
+Image_2EE80B4D_6133_3FA5_41C6_85E06E4A4164_mobile.url = skin/Image_2EE80B4D_6133_3FA5_41C6_85E06E4A4164_mobile_pt.jpg
+Image_2F1E02D6_6134_CEA6_4198_42B305DF38B2_mobile.url = skin/Image_2F1E02D6_6134_CEA6_4198_42B305DF38B2_mobile_pt.jpg
+Image_2F545E5E_6135_F9A6_41D0_675FA2A3313F_mobile.url = skin/Image_2F545E5E_6135_F9A6_41D0_675FA2A3313F_mobile_pt.jpg
+Image_2F6321FE_614C_CA66_41D6_3C8FEAEDDF70_mobile.url = skin/Image_2F6321FE_614C_CA66_41D6_3C8FEAEDDF70_mobile_pt.jpg
+Image_2FF28E5E_6137_39A6_41D7_0B3C48241D2A_mobile.url = skin/Image_2FF28E5E_6137_39A6_41D7_0B3C48241D2A_mobile_pt.jpg
+Image_30868CF5_61DD_7A7A_41D1_9FEE97DE65FA_mobile.url = skin/Image_30868CF5_61DD_7A7A_41D1_9FEE97DE65FA_mobile_pt.jpg
+Image_30B4499D_6137_DAA5_41D3_73D004AA693F_mobile.url = skin/Image_30B4499D_6137_DAA5_41D3_73D004AA693F_mobile_pt.jpg
+Image_316A6B05_61D3_5F9A_41D0_BE136BE315A4_mobile.url = skin/Image_316A6B05_61D3_5F9A_41D0_BE136BE315A4_mobile_pt.jpg
+Image_327958D5_6133_5AA5_41BC_4920CEE4069F_mobile.url = skin/Image_327958D5_6133_5AA5_41BC_4920CEE4069F_mobile_pt.jpg
+Image_3293C4F5_61CD_4A7A_41B2_3050606BFCBD_mobile.url = skin/Image_3293C4F5_61CD_4A7A_41B2_3050606BFCBD_mobile_pt.jpg
+Image_32CCB3C6_61CC_CEA6_41A7_A70FBDA0AAC3_mobile.url = skin/Image_32CCB3C6_61CC_CEA6_41A7_A70FBDA0AAC3_mobile_pt.jpg
+Image_349A73E5_61D5_4E9A_41B7_CAE1A7D9ED34_mobile.url = skin/Image_349A73E5_61D5_4E9A_41B7_CAE1A7D9ED34_mobile_pt.jpg
+Image_361EE36D_61DF_4E6A_41D5_D6F1432EE134_mobile.url = skin/Image_361EE36D_61DF_4E6A_41D5_D6F1432EE134_mobile_pt.jpg
+Image_36702F0D_61DD_77AA_41C4_02A51ACF6C60_mobile.url = skin/Image_36702F0D_61DD_77AA_41C4_02A51ACF6C60_mobile_pt.jpg
+Image_37DD2C84_61D3_7A9B_41D4_3B25A6EA4EBB_mobile.url = skin/Image_37DD2C84_61D3_7A9B_41D4_3B25A6EA4EBB_mobile_pt.jpg
+Image_410BA968_5FD3_3A6A_41B5_4864167BF3D8.url = skin/Image_410BA968_5FD3_3A6A_41B5_4864167BF3D8_pt.jpg
+Image_41D7BD49_5FCC_DBAA_41D6_FEE673C73889.url = skin/Image_41D7BD49_5FCC_DBAA_41D6_FEE673C73889_pt.jpg
+Image_42A9C498_5FCC_CAAA_41D4_1255204160A6.url = skin/Image_42A9C498_5FCC_CAAA_41D4_1255204160A6_pt.jpg
+Image_42ADD5A8_5FCD_4AEA_41D5_17F22956A40E.url = skin/Image_42ADD5A8_5FCD_4AEA_41D5_17F22956A40E_pt.jpg
+Image_42C81270_5FCC_CE7B_41BE_9080832CD155.url = skin/Image_42C81270_5FCC_CE7B_41BE_9080832CD155_pt.jpg
+Image_4445E04B_6786_16B5_4199_7E96D44D9CA2_mobile.url = skin/Image_4445E04B_6786_16B5_4199_7E96D44D9CA2_mobile_pt.jpg
+Image_4B06E209_614C_C9AA_41C1_9152CE9AD4D3.url = skin/Image_4B06E209_614C_C9AA_41C1_9152CE9AD4D3_pt.jpg
+Image_4BF89211_614C_C9BA_41D6_C6B2BE9C37FB.url = skin/Image_4BF89211_614C_C9BA_41D6_C6B2BE9C37FB_pt.jpg
+Image_4C4F4B38_6174_DFEB_41CD_D52022A9D3F9.url = skin/Image_4C4F4B38_6174_DFEB_41CD_D52022A9D3F9_pt.jpg
+Image_4C765231_6174_C9FA_41CB_4279DA1E563E.url = skin/Image_4C765231_6174_C9FA_41CB_4279DA1E563E_pt.jpg
+Image_4C793583_675A_439F_41C9_9EFE1B36565E.url = skin/Image_4C793583_675A_439F_41C9_9EFE1B36565E_pt.jpg
+Image_4C7B9320_6174_CF9B_41CB_445B4E5DEA78.url = skin/Image_4C7B9320_6174_CF9B_41CB_445B4E5DEA78_pt.jpg
+Image_4D0F920E_614C_C9A6_41CA_D4D1ED6DF9B8.url = skin/Image_4D0F920E_614C_C9A6_41CA_D4D1ED6DF9B8_pt.jpg
+Image_79BC974A_5F37_37AE_41AE_2E018B64E0BD.url = skin/Image_79BC974A_5F37_37AE_41AE_2E018B64E0BD_pt.jpg
+Image_7AA1E9B0_5F37_5AFA_41B7_5C41EFE90AEC.url = skin/Image_7AA1E9B0_5F37_5AFA_41B7_5C41EFE90AEC_pt.jpg
+Image_7B038A70_5FCF_DE7A_41D3_85BD4943297C.url = skin/Image_7B038A70_5FCF_DE7A_41D3_85BD4943297C_pt.jpg
+Image_7B27C920_5F33_5B9A_41B4_F6BBB060AFED.url = skin/Image_7B27C920_5F33_5B9A_41B4_F6BBB060AFED_pt.jpg
+Image_7B352420_5FCD_C99A_41D7_AA1B30A37F44.url = skin/Image_7B352420_5FCD_C99A_41D7_AA1B30A37F44_pt.jpg
+Image_7B36C660_5FCC_C99A_41C5_B8A9484F0941.url = skin/Image_7B36C660_5FCC_C99A_41C5_B8A9484F0941_pt.jpg
+Image_7B6E61E8_5F35_CA6B_41D3_B9CF4575893C.url = skin/Image_7B6E61E8_5F35_CA6B_41D3_B9CF4575893C_pt.jpg
+Image_7BC07D80_5FCD_7A9A_41C5_553C150BC60F.url = skin/Image_7BC07D80_5FCD_7A9A_41C5_553C150BC60F_pt.jpg
+Image_7E769A9F_5FD3_3EA5_41BB_261EA8F61BD3_mobile.url = skin/Image_7E769A9F_5FD3_3EA5_41BB_261EA8F61BD3_mobile_pt.jpg
+Image_7E769A9F_5FD3_3EA5_41BB_261EA8F61BD3.url = skin/Image_7E769A9F_5FD3_3EA5_41BB_261EA8F61BD3_pt.jpg
+
+### Label
+Label_356D86FF_61D5_5666_41CF_94382BF4EFFB.text = --- MENU ---
+Label_327728D6_6133_5AA6_41A3_BE1EBEBFC984_mobile.text = Academia
+Label_7B260920_5F33_5B9B_41AB_141A3A446ADA.text = Academia
+Label_2CE6F298_613D_CEAB_41A7_DA0D20930198_mobile.text = Café da Manhã
+Label_79B8A74B_5F37_37AE_41D3_FD0B8CB74ED0.text = Café da Manhã
+Label_3169DB05_61D3_5FA5_41D4_851E8F301058_mobile.text = Centro de Eventos - Paris
+Label_4D33320F_614C_C9A6_41CF_8E44CB0B4A12.text = Centro de Eventos - Paris
+Label_2E03848E_614D_4AA7_41CF_56CDB8E88F90_mobile.text = Classic 1402
+Label_42B005A8_5FCD_4AEB_41D7_4D9A7426D59A.text = Classic 1402
+Label_42AD8498_5FCC_CAAB_41C0_F732395D352B.text = Classic 1403
+Label_2EE84B4E_6133_3FA6_41CC_38B11BD80FF7_mobile.text = Classic 1403
+Label_2F1E82D6_6134_CEA7_41C2_34FEAC3D25CD_mobile.text = Classic 1404
+Label_42CDD271_5FCC_CE7A_41C2_DEAC568DD830.text = Classic 1404
+Label_41D60D49_5FCC_DBAA_41A9_2E808DCA7344.text = Classic 1405
+Label_2F55AE5E_6135_F9A7_41D6_6B2BC5A6209E_mobile.text = Classic 1405
+Label_2C0B2CE1_613C_FA9A_41D2_94DA6EAA803E_mobile.text = Entrada
+Label_7B393420_5FCD_C99B_41B9_06E16245626C.text = Entrada
+Label_32CEC3C7_61CC_CEA6_41AE_25A14FCC87B9_mobile.text = Espaço Lazer
+Label_7AA3A9B1_5F37_5AFA_41D6_9910ED81BAD3.text = Espaço Lazer
+Label_14191F6D_0A36_FF08_418A_BC66B16F507C.text = Eventos
+Label_2CE3F295_613D_CEA5_41C4_907101E6A0E2_mobile.text = Eventos
+Label_2D86B4FE_6135_4A66_41C8_2195B4AB582A_mobile.text = Foyer
+Label_7B349660_5FCC_C99B_41B4_E381BC192FCE.text = Foyer
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = HOTEL METRÓPOLE MARINGÁ
+Label_7B038A71_5FCF_DE7A_41C3_8BF689CEEDCA.text = Hall de Entrada
+Label_30B7B99E_6137_DAA6_41CC_78DA4E32F8C2_mobile.text = Hall de Entrada
+Label_1E37BB0B_065E_070F_4188_FE7998510035.text = Instalações
+Label_2C178CDE_613C_FAA7_418D_1951308D38FA_mobile.text = Instalações
+Label_1481758D_0EF6_0308_418E_C80049976CA2.text = Localização
+Label_1481758D_0EF6_0308_418E_C80049976CA2_mobile.text = Localização
+Label_49F13861_5F73_399A_41C4_FC1A9076BCC3.text = Master Casal
+Label_2F6361FE_614C_CA67_41D0_9D2315123A9C_mobile.text = Master Casal
+Label_2D76A7EB_614D_566D_41D6_9DD15F682122_mobile.text = Master Conjugada Casal
+Label_49CF9709_5F73_D7AA_41C8_42FECCC578FD.text = Master Conjugada Casal
+Label_2E5CAF0F_6154_D7A6_41A7_C499D274100A_mobile.text = Master Conjugada Solteiro
+Label_49F75E08_5F73_D9AB_41CD_4DD493F6B96F.text = Master Conjugada Solteiro
+Label_4984576B_5F73_366E_41BC_7D0EEF754A4E.text = Master Solteiro
+Label_2D35C863_6157_D99D_41D6_BF4E6E040F52_mobile.text = Master Solteiro
+Label_4447304C_6786_16B2_41C7_D61E9259D379_mobile.text = Piano Bar
+Label_4C7BA584_675A_4399_41D5_1A24591D9B21.text = Piano Bar
+Label_10FD1514_05EE_0318_4184_DDB1F6503020.text = Quartos
+Label_10FD1514_05EE_0318_4184_DDB1F6503020_mobile.text = Quartos
+Label_7BC01D81_5FCD_7A9A_41D1_E8FB8402BBDC.text = Recepção
+Label_2DA66596_6134_CAA6_41C7_B7E0FF50656D_mobile.text = Recepção
+Label_349A23E5_61D5_4E65_41D2_29119EA4379A_mobile.text = Sala Londres
+Label_4C4B7B39_6174_DFEA_41C7_82D8863CEB77.text = Sala Londres
+Label_37DC9C85_61D3_7A9A_41C2_3F754F74DA84_mobile.text = Sala Maringá
+Label_4C643321_6174_CF9A_41C3_9BA70D843797.text = Sala Maringá
+Label_4B0A9209_614C_C9AA_41CA_27D5F329E725.text = Sala Nova York
+Label_361E436D_61DF_4E65_41A1_5CBE2031AFEF_mobile.text = Sala Nova York
+Label_36718F0D_61DD_77A5_41CE_FB21E0376764_mobile.text = Sala Rio de Janeiro
+Label_4C76B231_6174_C9FD_41CA_81627C3D13B3.text = Sala Rio de Janeiro
+Label_4BFC7211_614C_C9BD_41A1_59A381963346.text = Sala VIP
+Label_30992CF6_61DD_7A66_41BE_B805E9F2148D_mobile.text = Sala VIP
+Label_7B69A1E9_5F35_CA6A_41CE_87B72C9049BB.text = Sauna
+Label_329674F6_61CD_4A66_41BE_A4335E748661_mobile.text = Sauna
+Label_410B5968_5FD3_3A6A_41C5_E4DE6323ECC0.text = Suite Lord
+Label_2FF2CE5E_6137_39A7_41A1_AA88AB56EC34_mobile.text = Suite Lord
+Label_4F7FE6E2_5B08_5977_41A4_DC3564E5ECAC_mobile.text = Suite Presidencial 1400
+Label_4F7FE6E2_5B08_5977_41A4_DC3564E5ECAC.text = Suite Presidencial 1400
+Label_49CEEF99_5F73_36AD_41C4_86A526A9A222.text = Superior Casal
+Label_2E874FEE_615D_7666_41CD_7C53EEC6E34A_mobile.text = Superior Casal
+Label_490169DC_5F73_5AAA_41D4_DCF8FDF37C42.text = Superior King
+Label_2E4A294E_615D_3BA7_41B2_147B206798F3_mobile.text = Superior King
+Label_105B975D_0A76_0F0B_4196_08C60AF59DCB.text = {{Title}}
+Label_105B975D_0A76_0F0B_4196_08C60AF59DCB_mobile.text = {{Title}}
+
+### Multiline Text
+HTMLText_5D2FC28C_6154_CEAB_41C9_93FEE6DF508A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Luxuoso e amplo apartamento com 152 m², possui ambiente com sala com jogo de sofá nude (bege), mesa em travertino, mini cozinha, lavabo, quarto com cama King Size (1,96 cm de largura), bancada de trabalho, TV a cabo em Smart TV de 55" no quarto e na sala, banheiro com banheira de hidromassagem redonda, secador de cabelo, ducha higiênica, amenities especiais, vista para catedral e café da manhã incluído!</SPAN></SPAN></DIV></div>
+HTMLText_5E02219C_6153_4AAA_41A6_E01E880FFE4A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 2 ambientes sendo 1 sala e 1 quarto com 1 cama de casal box padrão (1,38 de largura), TV a cabo em Televisor LCD de 32" nos 2 ambientes, ducha com aquecimento a gás, ar condicionado Split no quarto, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2CE62299_613D_CEAA_41C6_309015BD6114_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Aproveite o café da manhã cortesia, servido diariamente.</SPAN></SPAN></DIV></div>
+HTMLText_36716F0E_61DD_77A7_4172_2FBC3D64E917_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Sala com Capacidade de até 100 pessoas em auditório. Possui uma metragem de 107 M², Pé direito de 2,60 M.</SPAN></SPAN></DIV></div>
+HTMLText_3611A36E_61DF_4E67_41D5_B1D4B2127B43_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Sala com Capacidade de até 100 pessoas em auditório. Possui uma metragem de 108 M², Pé direito de 2,60 M.</SPAN></SPAN></DIV></div>
+HTMLText_31690B06_61D3_5FA7_41D3_5FE8F2D592D1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Sala com Capacidade de até 300 pessoas em auditório. Possui uma metragem de 350 M², Pé direito de 3,16 M.</SPAN></SPAN></DIV></div>
+HTMLText_349B93E6_61D5_4E67_41C5_3FEBD5DAE868_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Sala com Capacidade de até 300 pessoas em auditório. Possui uma metragem de 350 M², Pé direito de 3,16 M.</SPAN></SPAN></DIV></div>
+HTMLText_309BFCF7_61DD_7A66_41D0_F66A3F22F385_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Sala com mesa única com capacidade de até 13 pessoas. Possui uma metragem de 36,90M², Pé direito de 2,60 M.</SPAN></SPAN></DIV></div>
+HTMLText_37DC3C86_61D3_7AA7_41C6_A4DCF3B85A57_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Sala com mesa única com capacidade de até 8 pessoas. Possui uma metragem de 20,25M², Pé direito de 2,80 M.</SPAN></SPAN></DIV></div>
+HTMLText_484B3861_5F73_799A_41BD_A6F2032B6ADB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">A melhor opção para quem vem com a família para Maringá e quer manter a comodidade de estarem sempre juntos, é a Master Conjugada!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Na Master Conjugada você tem à disposição um quarto com cama King Size (1,96 de largura) e outro quarto com 2 camas de solteiro (1,10 de largura), ambos com banheiros separados. Também conta com sofá, mesa com cadeiras, lavabo, TV a cabo em Smart TV LCD de 55", ar-condicionado, closet, secador de cabelo e mini-cozinha.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_49561CF9_5F73_7A6A_41C2_24610E2F6B24.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">A melhor opção para quem vem com a família para Maringá e quer manter a comodidade de estarem sempre juntos, é a Master Conjugada!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Na Master Conjugada você tem à disposição um quarto com cama King Size (1,96 de largura) e outro quarto com 2 camas de solteiro (1,10 de largura), ambos com banheiros separados. Também conta com sofá, mesa com cadeiras, lavabo, TV a cabo em Smart TV LCD de 55", ar-condicionado, closet, secador de cabelo e mini-cozinha.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_42ADD498_5FCC_CAAB_4170_53A96AB1849E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_41D64D49_5FCC_DBAA_41C4_BE74D84CFB30.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_42B115A9_5FCD_4AED_41B4_0EEB8B8FE078.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_42CDE271_5FCC_CE7A_41D6_F19EA597ACBA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_498847D9_5F73_56AD_41D5_AB4FE193F0C5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Apartamento com aproximadamente 44m², possui dois ambientes, com sala e quarto, sendo configurado com 1 cama de Casal King Size no quarto e 1 cama de solteiro na sala, TV Smart 42" nos dois ambientes, ducha com aquecimento a gás, ar condicionado Split, frigobar e Internet wifi, banheiro equipado com kit de amenities, ducha higiênica e secador de cabelo.</SPAN></SPAN></DIV></div>
+HTMLText_79BB574B_5F37_37AE_41D1_76D9A4C62BA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Aproveite o café da manhã cortesia, servido diariamente.</SPAN></SPAN></DIV></div>
+HTMLText_410B3969_5FD3_3A6A_41A9_E18D602549A9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Dois ambientes com sala e quarto com uma cama de casal (1,38 cm de largura) no quarto e 2 camas de solteiro (128 cm de largura) na sala, TV a cabo em Televisor LCD de 32" na sala e no quarto, ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_4D6FB0C1_5B08_39B5_41D1_8155DE700D94.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Luxuoso e amplo apartamento com 152 m², possui ambiente com sala com jogo de sofá nude (bege), mesa em travertino, mini cozinha, lavabo, quarto com cama King Size (1,96 cm de largura), bancada de trabalho, TV a cabo em Smart TV de 55" no quarto e na sala, banheiro com banheira de hidromassagem redonda, secador de cabelo, ducha higiênica, amenities especiais, vista para catedral e café da manhã incluído!</SPAN></SPAN></DIV></div>
+HTMLText_49410190_5F73_4ABB_4186_F59C871FE837.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 1 ambiente com 1 cama de casal King Size (1,96 de largura), TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_49B56C31_5F73_59FA_41CE_C10B7801D067.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 1 ambiente com 2 camas de solteiro (1,10 de largura), TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_49EB56BB_5F73_56ED_41D3_8FB441A7B1E0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 2 ambientes sendo 1 sala e 1 quarto com 1 cama de casal box padrão (1,38 de largura), TV a cabo em Televisor LCD de 32" nos 2 ambientes, ducha com aquecimento a gás, ar condicionado Split no quarto, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_4C76D232_6174_C9FF_41D2_13D2D1CF87AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Sala com Capacidade de até 100 pessoas em auditório. Possui uma metragem de 107 M², Pé direito de 2,60 M.</SPAN></SPAN></DIV></div>
+HTMLText_4B09220A_614C_C9AE_41D5_C6C89E9D126F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Sala com Capacidade de até 100 pessoas em auditório. Possui uma metragem de 108 M², Pé direito de 2,60 M.</SPAN></SPAN></DIV></div>
+HTMLText_4C4A6B3A_6174_DFEF_41C9_9D365E52875E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Sala com Capacidade de até 300 pessoas em auditório. Possui uma metragem de 350 M², Pé direito de 3,16 M.</SPAN></SPAN></DIV></div>
+HTMLText_4D34320F_614C_C9A5_41BD_BD95BD0DA7C8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Sala com Capacidade de até 300 pessoas em auditório. Possui uma metragem de 350 M², Pé direito de 3,16 M.</SPAN></SPAN></DIV></div>
+HTMLText_4BFC5212_614C_C9BF_41C2_8D8C5509A1B5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Sala com mesa única com capacidade de até 13 pessoas. Possui uma metragem de 36,90M², Pé direito de 2,60 M.</SPAN></SPAN></DIV></div>
+HTMLText_4C644322_6174_CF9E_41D6_73D096CDD919.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Poppins';">Sala com mesa única com capacidade de até 8 pessoas. Possui uma metragem de 20,25M², Pé direito de 2,80 M.</SPAN></SPAN></DIV></div>
+HTMLText_2D77E7ED_614D_566A_41AA_8D3D17812768_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">A melhor opção para quem vem com a família para Maringá e quer manter a comodidade de estarem sempre juntos, é a Master Conjugada!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Na Master Conjugada você tem à disposição um quarto com cama King Size (1,96 de largura) e outro quarto com 2 camas de solteiro (1,10 de largura), ambos com banheiros separados. Também conta com sofá, mesa com cadeiras, lavabo, TV a cabo em Smart TV LCD de 55", ar-condicionado, closet, secador de cabelo e mini-cozinha.</SPAN></SPAN></DIV></div>
+HTMLText_2E5BFF10_6154_D7BA_41C8_7E9C42D12424_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">A melhor opção para quem vem com a família para Maringá e quer manter a comodidade de estarem sempre juntos, é a Master Conjugada!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Na Master Conjugada você tem à disposição um quarto com cama King Size (1,96 de largura) e outro quarto com 2 camas de solteiro (1,10 de largura), ambos com banheiros separados. Também conta com sofá, mesa com cadeiras, lavabo, TV a cabo em Smart TV LCD de 55", ar-condicionado, closet, secador de cabelo e mini-cozinha.</SPAN></SPAN></DIV></div>
+HTMLText_2E017490_614D_4ABA_41A3_0470703A2F88_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2FF20E5E_6137_39A7_41A1_86EDE9EE43D1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Dois ambientes com sala e quarto com uma cama de casal (1,38 cm de largura) no quarto e 2 camas de solteiro (128 cm de largura) na sala, TV a cabo em Televisor LCD de 32" na sala e no quarto, ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_4D6FB0C1_5B08_39B5_41D1_8155DE700D94_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Luxuoso e amplo apartamento com 152 m², possui ambiente com sala com jogo de sofá nude (bege), mesa em travertino, mini cozinha, lavabo, quarto com cama King Size (1,96 cm de largura), bancada de trabalho, TV a cabo em Smart TV de 55" no quarto e na sala, banheiro com banheira de hidromassagem redonda, secador de cabelo, ducha higiênica, amenities especiais, vista para catedral e café da manhã incluído!</SPAN></SPAN></DIV></div>
+HTMLText_2F625200_614C_C99B_41CF_291BC55CC94C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 1 ambiente com 1 cama de casal King Size (1,96 de largura), TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2D344864_6157_D99B_41C6_4A6FF626D9A9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 1 ambiente com 2 camas de solteiro (1,10 de largura), TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2E871FEF_615D_7666_41D8_8F833BCCCA30_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 2 ambientes sendo 1 sala e 1 quarto com 1 cama de casal box padrão (1,38 de largura), TV a cabo em Televisor LCD de 32" nos 2 ambientes, ducha com aquecimento a gás, ar condicionado Split no quarto, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2E4A6950_615D_3BBA_41C1_119BEF16649C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 2 ambientes sendo 1 sala e 1 quarto com 2 camas solteiro (1,10 de largura), TV a cabo em Televisor LCD de 32" nos 2 ambientes, ducha com aquecimento a gás, ar condicionado Split no quarto, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_5D2FC28C_6154_CEAB_41C9_93FEE6DF508A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6px;font-family:'Poppins';">Luxuoso e amplo apartamento com 152 m², possui ambiente com sala com jogo de sofá nude (bege), mesa em travertino, mini cozinha, lavabo, quarto com cama King Size (1,96 cm de largura), bancada de trabalho, TV a cabo em Smart TV de 55" no quarto e na sala, banheiro com banheira de hidromassagem redonda, secador de cabelo, ducha higiênica, amenities especiais, vista para catedral e café da manhã incluído!</SPAN></SPAN></DIV></div>
+HTMLText_5E02219C_6153_4AAA_41A6_E01E880FFE4A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6px;font-family:'Poppins';">O apartamento tem aproximadamente 40m², possui 2 ambientes sendo 1 sala e 1 quarto com 1 cama de casal box padrão (1,38 de largura), TV a cabo em Televisor LCD de 32" nos 2 ambientes, ducha com aquecimento a gás, ar condicionado Split no quarto, frigobar, Internet Wireless, banheiro equipado com kit de amenities, ducha higiênica, secador de cabelo e café da manhã incluso na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2F1EB2D6_6134_CEA7_41D6_C8A162ECA72E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2F55FE5F_6135_F9A6_41BA_2D096732C873_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+HTMLText_2EE8DB4F_6133_3FA5_41D3_4DA009EC44F3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Ampla suíte com aproximadamente 55 e 77 m², dois ambientes com sala e quarto com cama casal King Size (1,96 cm de largura ) , TV a cabo em Smart TV LCD de 55", ducha com aquecimento a gás, ar condicionado Split, bancada de trabalho, frigobar, Internet Wireless, banheiro equipado com kit de amenities especiais, ducha higiênica, secador de cabelo, banheira de hidromassagem e café da manhã incluído na diária!</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Faça um Tour em 360°
+
+### Title
+tour.name = Hotel Metrópole - Maringá
+
+## VR Menu
+
+### Text
+MenuItem_70F05277_61C0_CEBD_41BE_FB01AF5D6C07.label = Academia
+MenuItem_4B66AE3B_6782_EAD6_41D3_B2F373619B03.label = Academia
+MenuItem_70F1A276_61C0_CEBC_41CE_8E5627973CB6.label = Academia - Cardio
+MenuItem_4B674E3C_6782_EAD2_41B8_9B459A59F3AE.label = Academia 1
+MenuItem_4B675E3B_6782_EAD6_41A5_73B2EA836EBD.label = Acesso Academia
+MenuItem_4B673E3B_6782_EAD6_41D0_C31A3803C48A.label = Acesso Elevador
+MenuItem_70F79277_61C0_CEBD_41C8_7587B3BE1C8F.label = Acesso Piscina
+MenuItem_4B67DE3B_6782_EAD6_41A7_1609173A274E.label = Acesso Quartos
+MenuItem_B0AAAADD_F07C_81AF_41E1_0A27AE2182FC.label = Acesso elevdor
+MenuItem_4B68AE39_6782_EAD5_40E6_CDD24F647980.label = Acesso saúna
+MenuItem_4B673E3C_6782_EAD2_41CE_FE34537EF1AB.label = Acesso área de lazer
+MenuItem_4B694E3A_6782_EAD6_41BA_46776CD92CFC.label = Café da Manhã
+MenuItem_4B68AE3A_6782_EAD6_41D5_21CB36CBA8CE.label = Café da Manhã
+MenuItem_B0ADBADD_F07C_81AF_41E1_F2FB98FC98A4.label = Café da Manhã
+MenuItem_B0AD4ADD_F07C_81AF_41D6_7331F8CA3D63.label = Café da Manhã
+MenuItem_B0AA4ADD_F07C_81AF_41D4_AD161CC945D8.label = Café da Manhã
+MenuItem_4B663E3A_6782_EAD7_41D6_E7C506E0556E.label = Café da Manhã
+MenuItem_4B69AE3A_6782_EAD7_41A3_BAEF7D2334F7.label = Café da Manhã
+MenuItem_B0AA1ADD_F07C_81AF_41E2_A58715714853.label = Café da Manhã
+MenuItem_B0AD6ADD_F07C_81AF_41E9_16D71ADAFC0D.label = Café da Manhã
+MenuItem_B0AA2ADD_F07C_81AF_41ED_48F5749A16A8.label = Café da Manhã
+MenuItem_B0AD4ADD_F07C_81AF_41E6_DBC0E09F24A1.label = Café da Manhã
+MenuItem_B0ADEADD_F07C_81AF_41DD_BB42252694F0.label = Café da Manhã
+MenuItem_B0AD8ADD_F07C_81AF_41E5_B536883D88FB.label = Café da Manhã
+MenuItem_B0AA0ADD_F07C_81AF_41E7_906637BA2993.label = Café da Manhã
+MenuItem_4B69AE39_6782_EAD5_41D1_1994451013D3.label = Café da Manhã
+MenuItem_B0ADAADD_F07C_81AF_41EC_017820375464.label = Café da Manhã
+MenuItem_4B662E3B_6782_EAD5_41D2_D709E81674CA.label = Catedral
+MenuItem_B0AD5ADD_F07C_81AF_41D3_960DBF0A899F.label = Centro de Eventos Paris
+MenuItem_4B68FE39_6782_EAD2_41B8_4926D553608F.label = Centro de Eventos Paris
+MenuItem_4B697E39_6782_EAD5_41C8_20DC66B06B7C.label = Centro de Eventos Paris
+MenuItem_B0ADAADD_F07C_81AF_41B7_65CAEF1BBBA0.label = Centro de Eventos Paris
+MenuItem_4B688E39_6782_EAD5_41AD_822231E8A6E9.label = Entrada
+MenuItem_4B682E39_6782_EAD2_41D7_739591CF9C0A.label = Espaço lazer
+MenuItem_4B667E3A_6782_EAD6_41D7_D5F7A5BA80C8.label = Espaço lazer
+MenuItem_4B69DE3A_6782_EAD7_41D3_943639A2BD04.label = Espaço lazer
+MenuItem_4B66BE3B_6782_EAD6_41D0_F95265698B15.label = Externa Café da Manhã
+MenuItem_4B693E39_6782_EAD5_41C2_0E26E6B44769.label = Fachada
+MenuItem_4B67AE3C_6782_EAD2_41D3_5EBB14DFA1EB.label = Foyer
+MenuItem_4B660E3B_6782_EAD5_41AB_01D75BB94D7C.label = Foyer
+MenuItem_4B669E3C_6782_EAD2_41D7_B544253212CB.label = Foyer
+MenuItem_4B67EE3C_6782_EAD2_41C6_EBD6D37A7728.label = Foyer
+MenuItem_4B692E3A_6782_EAD6_41D2_D7636FCDDC7D.label = Foyer
+MenuItem_4B683E39_6782_EAD2_41BC_3882C31FC102.label = Hall
+MenuItem_4B69EE3A_6782_EAD7_41D5_5A0F33A05446.label = Master Conjugada casal
+MenuItem_4B696E3A_6782_EAD6_41D2_0EE6BD09A609.label = Master Conjugada casal
+MenuItem_4B666E3A_6782_EAD6_41D1_11DE29615DBF.label = Master Conjugada casal
+MenuItem_4B664E3A_6782_EAD6_41D7_03CA35DA2E5A.label = Master Solteiro
+MenuItem_4B69CE39_6782_EAD5_41A8_2A51EDA4DFC6.label = Master Solteiro
+MenuItem_4B697E3A_6782_EAD6_41D7_5B06BF5E5BE4.label = Master Solteiro
+MenuItem_4B69FE39_6782_EAD5_41D5_40175BF5A799.label = Master conjugada solteiro
+MenuItem_4B68CE39_6782_EAD5_4166_A598D1BC6840.label = Master conjugada solteiro
+MenuItem_4B696E39_6782_EAD5_4191_C3D6FBADC209.label = Master conjugada solteiro
+Menu_716E1F04_6463_8730_41D4_D53B1BECA0D7.label = Media
+MenuItem_4B690E3A_6782_EAD6_41B5_79609888C3CB.label = Parque do Ingá
+MenuItem_4B67AE3B_6782_EAD6_41D9_BCE0F0BC1A8D.label = Piano Bar
+MenuItem_4B66CE3C_6782_EAD2_41C6_48BEB09526FE.label = Piano Bar
+MenuItem_B0ADCADD_F07C_81AF_41D3_A9D99837C4D4.label = Piscina
+MenuItem_B0AABADD_F07C_81AE_41EA_CD2291AD8D3F.label = Piscina
+MenuItem_B0AD7ADD_F07C_81AF_41D7_EDC9A2FB22FE.label = Piscina
+MenuItem_4B667E3A_6782_EAD7_41D7_25E32EA93BBD.label = Presidencial
+MenuItem_4B66EE3B_6782_EAD5_41C2_93B9556EA617.label = Presidencial
+MenuItem_4B66CE3A_6782_EAD7_41CB_0E56F49F2F42.label = Presidencial
+MenuItem_4B677E3B_6782_EAD6_41CE_916C69A5BFC7.label = Presidencial
+MenuItem_4B67CE3B_6782_EAD6_41D5_95655335827B.label = Presidencial
+MenuItem_4B68BE39_6782_EAD5_41C2_57622B84B3BD.label = Presidencial
+MenuItem_4B692E39_6782_EAD5_41C1_9342D6507C10.label = Presidencial
+MenuItem_4B672E3C_6782_EAD2_41D2_17FA56309FD3.label = Presidencial
+MenuItem_4B67FE3C_6782_EAD2_41D2_434A3442DCFE.label = Recepção
+MenuItem_4B69BE39_6782_EAD5_41BB_4F647B34B317.label = Sala Londres
+MenuItem_B0ADBADD_F07C_81AF_41E7_07F7D584C4DA.label = Sala Londres
+MenuItem_B0AD8ADD_F07C_81AF_41EC_BBAEC80799EF.label = Sala Londres
+MenuItem_B0AA3ADD_F07C_81AF_41E3_A532BE051D7D.label = Sala Maringá
+MenuItem_4B668E3C_6782_EAD2_41C8_8F9F330B0FFA.label = Sala Maringá
+MenuItem_4B66DE3C_6782_EAD2_41BE_F3D893E40977.label = Sala Nova York
+MenuItem_4B661E3A_6782_EAD7_41CF_E86AC3798DFD.label = Sala Rio de Janeiro
+MenuItem_B0ADFADD_F07C_81AF_41C9_0A3724A9BC73.label = Sala Rio de Janeiro
+MenuItem_4B669E3B_6782_EAD6_41CD_1A5AFE5AC1FE.label = Sala Vip
+MenuItem_4B684E39_6782_EAD2_41CE_3518812CD6B3.label = Saúna
+MenuItem_4B66DE3B_6782_EAD6_41C8_538BA29D7C63.label = Superior Casal
+MenuItem_4B674E3B_6782_EAD6_41B7_9084987DFE64.label = Superior Casal
+MenuItem_4B69CE3A_6782_EAD7_41BD_6A9BC61E4415.label = Superior Casal
+MenuItem_4B665E3A_6782_EAD7_41C7_5B3C9E023C46.label = Superior Casal
+MenuItem_4B668E3B_6782_EAD6_41D1_7CA595CD0CCE.label = Superior King
+MenuItem_5443D905_6757_55B5_4195_F926786AC5E0.label = Superior King
+MenuItem_5443F905_6757_55B5_41D3_031C70EDBA90.label = Superior King
+MenuItem_4B670E3B_6782_EAD6_41B4_4507D65622C4.label = Superior King
+MenuItem_5443C905_6757_55B5_41D7_1DDE7433822F.label = Superior King
+MenuItem_4B660E3A_6782_EAD7_41CF_98BAE3904B76.label = Superior solteiro
+MenuItem_4B677E3C_6782_EAD2_41D1_E8158F930BBA.label = Suíte Classic 1402
+MenuItem_4B661E3B_6782_EAD5_41C2_DC9ED70CDDE1.label = Suíte Classic 1402
+MenuItem_4B662E3C_6782_EAD3_41D0_E80A93B5CA94.label = Suíte Classic 1402
+MenuItem_4B67FE3B_6782_EAD6_41D1_894D5008C986.label = Suíte Classic 1403
+MenuItem_4B676E3B_6782_EAD6_41D4_654303E89F46.label = Suíte Classic 1403
+MenuItem_4B66EE3A_6782_EAD7_41BD_D30EB552B88B.label = Suíte Classic 1403
+MenuItem_4B699E3A_6782_EAD7_4182_50E945F8335E.label = Suíte Classic 1404
+MenuItem_4B691E3A_6782_EAD7_41C3_3005CFF7B8F1.label = Suíte Classic 1404
+MenuItem_4B689E3A_6782_EAD6_41B7_9BDB8BB1F5CC.label = Suíte Classic 1404
+MenuItem_4B699E3A_6782_EAD6_41CB_612648D89CCE.label = Suíte Classic 1405
+MenuItem_4B689E39_6782_EAD5_41C7_1D4FA88C24DD.label = Suíte Classic 1405
+MenuItem_4B67DE3C_6782_EAD2_41BE_A035F63341C9.label = Suíte Classic 1405
+MenuItem_4B663E3B_6782_EAD5_41D8_E97F47F02908.label = Suíte Classic 1405
+MenuItem_4B69EE39_6782_EAD5_41D0_C5FBEF126753.label = Suíte Classic 1405
+MenuItem_4B681E39_6782_EAD2_41D9_621B49398EEB.label = Suíte Classic 1405
+MenuItem_4B698E39_6782_EAD5_41CF_70277C3DF78B.label = Suíte Lord
+MenuItem_4B688E3A_6782_EAD6_41D0_57DCF5D79798.label = Suíte Lord
+MenuItem_4B662E3A_6782_EAD7_41CA_E6923A2A89C7.label = Suíte Lord
+MenuItem_4B698E3A_6782_EAD7_41C1_4EFFAE2EE9B2.label = Suíte Lord
+MenuItem_4B685E39_6782_EAD2_41C6_95304545F6F5.label = Suíte Master Casal
+MenuItem_4B66FE3B_6782_EAD5_4182_6AA7B8468977.label = Suíte Master Casal
+MenuItem_4B670E3C_6782_EAD2_41C3_7C83AC641D75.label = Suíte Master Casal
+MenuItem_4B662E3A_6782_EAD6_41D0_4E30A394C021.label = Suíte Sênior
+MenuItem_4B694E39_6782_EAD5_41CC_4A6E57708FAC.label = Suíte Sênior
+MenuItem_4B69DE39_6782_EAD5_41A6_64D9B8FA22D5.label = Suíte Sênior
+MenuItem_4B693E3A_6782_EAD6_41C1_C38DB5419F96.label = Vista Aérea
+MenuItem_4B691E39_6782_EAD5_41D2_EA5C8BBE17B6.label = Vista Aérea
+MenuItem_70F7C277_61C0_CEBD_4187_6322A64F0CC9.label = _MG_4611-HDR Panorama
+MenuItem_70F07277_61C0_CEBD_41C4_58FEEE08545C.label = _MG_4623-HDR Panorama
+MenuItem_70F7A277_61C0_CEBD_41C3_1308ACE4577C.label = _MG_4635-HDR Panorama
+MenuItem_70F19277_61C0_CEBD_41D3_B2083A5CAC20.label = _MG_4647-HDR Panorama
+MenuItem_70F7B277_61C0_CEBD_41C7_8DF461C7E28D.label = _MG_4659-HDR Panorama
+MenuItem_70F78277_61C0_CEBD_41D5_6848E40CA614.label = _MG_4723-HDR Panorama
